@@ -1,22 +1,24 @@
 {
-	"movies": [
+	"experience": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Job Title": "Junior UI/UX Designer",
+			"Company": "Shadow Factory",
+			"Year": "2022"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Job Title": "Architectural Assistant",
+			"Company": "ARCHI+ International Limited",
+			"Year": "2020-2021"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Job Title": "Architectural Intern",
+			"Company": "Napp Studio & Architects",
+			"Year": "2019"
+		},
+		{
+			"Job Title": "Architectural Intern",
+			"Company": "Mlkk Studio",
+			"Year": "2018"
 		}
 	]
 }
